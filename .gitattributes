@@ -1,0 +1,2 @@
+Windows/TerrainGenerator/Binaries/Win64/TerrainGenerator-Win64-Shipping.exe filter=lfs diff=lfs merge=lfs -text
+Windows/TerrainGenerator/Content/Paks/TerrainGenerator-Windows.ucas filter=lfs diff=lfs merge=lfs -text
